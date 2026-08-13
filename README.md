@@ -27,5 +27,5 @@ O SVM apresentou o melhor desempenho geral neste experimento. O XGBoost também 
 ## Como executar
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/projeto_semantix_svm_xgboost.ipynb
+jupyter notebook notebooks/projeto_semantix_svm_xgboost_EXECUTADO.ipynb
 ```
